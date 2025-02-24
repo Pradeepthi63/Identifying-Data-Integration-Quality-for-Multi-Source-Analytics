@@ -1,0 +1,7 @@
+CustomerID,Name,Email,JoinDate,AmountSpent
+1,John Doe,john@example.com,2024-01-15,150.0
+2,Jane Smith,jane@example.com,2024-02-20,200.0
+3,Bob Johnson,,2024-03-05,150.0
+4,Mary Johnson,mary@example.com,2024-02-30,300.0
+5,Tom Brown,tom@example.com,2024-03-15,400.0
+6,Emily Davis,emily@example.com,2024-01-25,
